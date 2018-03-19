@@ -20,7 +20,7 @@ public class Runner
         
         Object[] gameOptions = {"Stats","Mad Libs"};  
         /*
-         * Creates window with buttons for games
+         * Creates window with buttons for games 
          */
         int gameChoice = JOptionPane.showOptionDialog(null,
             "Hello, " + name + "! Which game would you like to play?","",
